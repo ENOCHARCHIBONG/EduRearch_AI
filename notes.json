@@ -1,0 +1,12 @@
+{
+  "Algebra": "Algebra is the branch of mathematics that uses symbols (like x, y) to represent numbers.\n\nKey Concepts:\n- Variables: Letters that represent unknown values\n- Constants: Fixed numbers\n- Expressions: Combination of numbers and variables (e.g., 2x + 3)\n\nExample:\nSolve: x + 2 = 5\nStep 1: Subtract 2 from both sides\nStep 2: x = 3\n\nFormulas:\n- x + a = b → x = b - a\n- ax = b → x = b/a",
+  "Geometry": "Geometry is the study of shapes, sizes, and space.\n\nKey Concepts:\n- Points, lines, angles\n- Shapes: Triangle, square, circle\n\nFormulas:\n- Area of triangle = 1/2 × base × height\n- Area of rectangle = length × width\n\nExample:\nFind area of triangle with base 10 and height 5\nArea = 1/2 × 10 × 5 = 25",
+  "Trigonometry": "Trigonometry deals with angles and sides of triangles. Example: sin(θ) = opposite/hypotenuse",
+  "Statistics": "Statistics involves collecting, analyzing, and interpreting data. Example: Mean = sum of values / number of values",
+  "Probability": "Probability measures the likelihood of an event. Example: P(Heads) = 1/2 for a fair coin",
+  "Mensuration": "Mensuration deals with the measurement of geometric figures. Example: Volume of cylinder = πr²h",
+  "Coordinate Geometry": "Coordinate geometry involves points, lines, and shapes on the Cartesian plane. Example: Distance formula = √((x2-x1)²+(y2-y1)²)",
+  "Matrices": "Matrices are rectangular arrays of numbers. Example: Addition and multiplication of matrices",
+  "Vectors": "Vectors have both magnitude and direction. Example: Resultant vector = vector sum of components",
+  "Probability Distributions": "Probability distributions describe how probabilities are distributed over outcomes. Example: Binomial, Normal distributions"
+}
